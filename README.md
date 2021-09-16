@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zurimokato.
 - 👀 I’m interested in games, programming and AR.
-- 🌱 I’m currently learning Ruby on Rail, Android with Kotlin, Capacitor and Blender.
+- 🌱 I’m currently learning Ruby on Rails, Android with Kotlin, Capacitor and Blender.
 - 💞️ I’m looking to collaborate on android projects, ,mobile games and rails tutorials.
 - 📫 How to reach me @zurimokato twiter.
 
